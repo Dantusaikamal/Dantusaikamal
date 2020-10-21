@@ -12,8 +12,6 @@
 <a href="https://www.instagram.com/sai_kamal7//">
   <img align="left" alt="Sai kamal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Sai kamal's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dantusaikamal.Dantusaikamal)
@@ -30,7 +28,7 @@ Beside programming, I got a penchant for writing!
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on multiple projects :wink:;
 - 🌱 I’m currently learning Flutter and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dantusaikamal](https://www.linkedin.com/in/dantu-sai-kamal/);
