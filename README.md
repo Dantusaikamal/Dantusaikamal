@@ -41,7 +41,6 @@ Beside programming, I got a penchant for writing!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -51,8 +50,10 @@ Beside programming, I got a penchant for writing!
 
 
 <summary>📈 My GitHub Stats: </summary>
+<br>
+<br>
+<p align="left"> <img align="left" alt="Sai kamal's profile stats" src="https://github-readme-stats.vercel.app/api?username=dantusaikamal&show_icons=true&theme=gotham" alt="dantusaikamal" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dantusaikamal&show_icons=true&theme=gotham" alt="dantusaikamal" />
-
-
-
+<br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantusaikamal&layout=compact)](https://github.com/dantusaikamal/github-readme-stats)
