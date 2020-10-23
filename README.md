@@ -29,7 +29,7 @@ Beside programming, I got a penchant for writing!
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on multiple projects :wink:;
-- 🌱 I’m currently learning Flutter and C++; 
+- 🌱 I’m currently learning Flutter and React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dantusaikamal](https://www.linkedin.com/in/dantu-sai-kamal/);
 - 📝[Resume](https://drive.google.com/file/d/1u35utHrhX2EzVLsltyKgFVA3j17Y9R4p/view?usp=sharing)
