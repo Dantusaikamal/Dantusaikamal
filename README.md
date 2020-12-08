@@ -24,6 +24,9 @@ Currently a sophomore student contributing to various open-sourced projects and 
 I'm interested in Web Development, Machine learning and Data Science.
 
 Beside programming, I got a penchant for writing!
+
+Check out my Portfolio at https://dantusaikamal.github.io/
+
   <img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
