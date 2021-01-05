@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/dantu-sai-kamal/">
   <img align="left" alt="Sai kamal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Sai_kamal7">
-  <img align="left" alt="Sai kamal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://dantusaikamal.medium.com/">
+  <img align="left" alt="Sai kamal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/sai_kamal7//">
   <img align="left" alt="Sai kamal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
