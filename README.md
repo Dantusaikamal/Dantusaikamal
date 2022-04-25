@@ -34,7 +34,7 @@ Check out my Portfolio at https://dantusaikamal.github.io/
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dantusaikamal](https://www.linkedin.com/in/dantu-sai-kamal/);
-- 📝[Resume](https://drive.google.com/file/d/1A_ou2CMzGRgLUwI5jz2onjcF_GsKHYtG/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1uq_zWOtlBgWC8JAzuyaadCKC4msJMGSc/view?usp=sharing)
 
 **Languages and Tools:**  
 
