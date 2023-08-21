@@ -25,7 +25,7 @@ I'm interested in Web Development, Mobile App Development, Machine learning and 
 
 Beside programming, I got a penchant for writing!
 
-Check out my Portfolio at https://dantusaikamal.github.io/
+Check out my Portfolio at https://dantusaikamal.codes/
 
   <img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
   
