@@ -19,7 +19,7 @@
 <br />
 
 Hi, I'm [Sai kamal](https://www.linkedin.com/in/dantu-sai-kamal/), a Full Stack Developer 🚀 from Hyderabad, India. 
-A CS graduate contributing to various open-sourced projects and working on quite a few personal projects. Also part of multiple start-ups aiming high 🌟
+A Master's student at IIIT Hyderabad, currently contributing to various open-sourced projects and working on quite a few personal projects. Also part of multiple start-ups aiming high 🌟
 
 I'm interested in Web Development, Mobile App Development, Machine learning and Data Science.
 
@@ -34,7 +34,7 @@ Check out my Portfolio at https://dantusaikamal.codes/
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dantusaikamal](https://www.linkedin.com/in/dantu-sai-kamal/);
-- 📝[Resume](https://drive.google.com/file/d/1A_ou2CMzGRgLUwI5jz2onjcF_GsKHYtG/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1VF88Pgb1wC50tFIppiJ9o2uPKsLsNr2N/view?usp=sharing)
 
 **Languages and Tools:**  
 
