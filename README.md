@@ -14,20 +14,18 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=dantusaikamal.Dantusaikamal)
-
 <br />
 
 Hi, I'm [Sai kamal](https://www.linkedin.com/in/dantu-sai-kamal/), a Full Stack Developer 🚀 from Hyderabad, India. 
-A Master's student at IIIT Hyderabad, currently contributing to various open-sourced projects and working on quite a few personal projects. Also part of multiple start-ups aiming high 🌟
+A Master's student at IIIT Hyderabad, currently contributing to various open-sourced projects and working on quite a few personal projects. Also supporting multiple start-ups that are aiming high 🌟
 
-I'm interested in Web Development, Mobile App Development, Machine learning and Data Science.
+I'm interested in Web Development, Mobile App Development, Machine learning and Cloud.
 
 Beside programming, I got a penchant for writing!
 
-Check out my Portfolio at https://dantusaikamal.me/
+Check out my Portfolio [here!](https://portfolio-hrhib0gij-dantusaikamals-projects.vercel.app/)
 
-  <img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
