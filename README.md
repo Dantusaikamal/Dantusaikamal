@@ -1,3 +1,7 @@
+  <p align="center">
+   <img alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/dantusaikamal.gif?raw=true" width="650" height="350" />
+   </p>
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Saikamaldantu">
