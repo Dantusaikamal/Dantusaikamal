@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dantusaikamal.com-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dantusaikamal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dantu%20Sai%20Kamal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dantu-sai-kamal/)
 [![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://dantusaikamal.medium.com/)
-[![X](https://img.shields.io/badge/X-@Saikamaldantu-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/Saikamaldantu)
 
 <br />
 
