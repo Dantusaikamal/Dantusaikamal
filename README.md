@@ -1,56 +1,121 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-<a href="https://twitter.com/Saikamaldantu">
-  <img align="left" alt="Sai Kamal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dantu-sai-kamal/">
-  <img align="left" alt="Sai kamal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://dantusaikamal.medium.com/">
-  <img align="left" alt="Sai kamal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sai_kamal7//">
-  <img align="left" alt="Sai kamal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+# Hey, I'm Sai Kamal 👋
 
+### Senior Software Engineer @ [ReplicantAI](https://www.replicantsys.com/)
+
+### I work across web, backend, AI workflows, and cloud systems.
 
 <br />
 
-Hi, I'm [Sai kamal](https://www.linkedin.com/in/dantu-sai-kamal/), a Full Stack Developer 🚀 from Hyderabad, India. 
-A Master's student at IIIT Hyderabad, currently contributing to various open-sourced projects and working on quite a few personal projects. Also supporting multiple start-ups that are aiming high 🌟
+[![Portfolio](https://img.shields.io/badge/Portfolio-dantusaikamal.com-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dantusaikamal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dantu%20Sai%20Kamal-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dantu-sai-kamal/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://dantusaikamal.medium.com/)
+[![X](https://img.shields.io/badge/X-@Saikamaldantu-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/Saikamaldantu)
 
-I'm interested in Web Development, Mobile App Development, Machine learning and Cloud.
+<br />
 
-Beside programming, I got a penchant for writing!
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Development;Backend+Engineering;AI-Workflows;Data+Science;Cloud+and+DevOps;Scaling+products;Flutter;Design;" alt="Typing SVG" />
 
-Check out my Portfolio [here!](https://portfolio-hrhib0gij-dantusaikamals-projects.vercel.app/)
+</div>
 
-<img align="right" alt="GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+---
 
-- 💻 I’m currently working on multiple projects :smile:;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@dantusaikamal](https://www.linkedin.com/in/dantu-sai-kamal/);
-- 📝[Resume](https://drive.google.com/file/d/1VF88Pgb1wC50tFIppiJ9o2uPKsLsNr2N/view?usp=sharing)
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-**Languages and Tools:**  
+## About me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+I’m a **Senior Software Engineer** based in Hyderabad, India, working at **[ReplicantAI](https://www.replicantsys.com/)** with a Master's in Data Science from **IIIT Hyderabad**.
 
+I enjoy building solutions for real-world problems. My work usually sits across full-stack web development, backend systems, mobile apps, enterprise applications, machine learning, data science, and cloud infrastructure.
 
-<summary>📈 My GitHub Stats: </summary>
-<br>
-<br>
-<p align="left"> <img align="left" alt="Sai kamal's profile stats" src="https://github-readme-stats.vercel.app/api?username=dantusaikamal&show_icons=true&theme=gotham" alt="dantusaikamal" />
+Outside work, I like contributing to open-source projects, experimenting with new ideas, and building small tools that solve practical problems.
 
-<br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantusaikamal&layout=compact)](https://github.com/dantusaikamal/github-readme-stats)
+  </td>
+  <td width="42%" valign="top">
+    <img alt="Coding GIF" src="https://github.com/Dantusaikamal/Dantusaikamal/blob/main/code.gif?raw=true" width="100%" />
+  </td>
+  </tr>
+</table>
+
+---
+## Tech stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,dart,cpp" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Data</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,supabase,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,linux,nginx" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mobile</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantusaikamal&theme=github_dark" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dantusaikamal&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dantusaikamal&theme=github_dark&utcOffset=5.5" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dantusaikamal&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dantusaikamal&theme=github_dark" />
+
+</div>
+
+---
+
+## Connect with me
+
+<div align="center">
+
+Feel free to reach out if you have an interesting engineering problem, a product idea, or if you're just learning and building in public.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dantu-sai-kamal/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dantusaikamal.com)
+[![Medium](https://img.shields.io/badge/Read%20my%20Blog-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://dantusaikamal.medium.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### Learn   •   Build   •   Solve.
+
+</div>
